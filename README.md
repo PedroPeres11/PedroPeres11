@@ -1,5 +1,5 @@
 <h1 align="center">👋 Olá! Eu sou o Peres</h1>
-<p align="center">🚓 Especialista em bots para Discord | 🔧 Full Stack Developer | 🎮 Focado em servidores GTA RP</p>
+<p align="center">🚓 Especialista em bots para Discord | 🔧 Full Stack Developer | </p>
 
 ---
 
@@ -10,7 +10,6 @@ Crio bots altamente personalizados, painéis administrativos, integrações com 
 
 - 🔨 Foco em **automação de servidores GTA RP** com bots para registros, hierarquias, patrulhas, advertências, etc.
 - 🌍 Desenvolvo aplicações web com **React**, **Node.js** e **MongoDB**.
-- 📱 Crio apps mobile com **SwiftUI**.
 - 💡 Sempre buscando **eficiência**, **organização** e **facilidade de uso**.
 
 ---
@@ -19,12 +18,6 @@ Crio bots altamente personalizados, painéis administrativos, integrações com 
 
 ### 🛡️ Polícia 2.0 – Bot completo para gerenciamento policial
 Sistema de registros, aprovação por cargos, logs automáticos, hierarquia atualizada em tempo real, e muito mais.
-
-### ⏱️ ClockinFy – Sistema de ponto para organizações
-Frontend em React, backend com Node.js, MongoDB, autenticação e painel moderno.
-
-### ⚽ NoclafFut – App SwiftUI para jogadores de futebol
-Organização de jogadores por perfil, carreira, partidas e status.
 
 ---
 
