@@ -29,7 +29,6 @@ Sistema de registros, aprovação por cargos, logs automáticos, hierarquia atua
 ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb)
 ![Express](https://img.shields.io/badge/-Express.js-black?style=for-the-badge&logo=express)
-![SwiftUI](https://img.shields.io/badge/-SwiftUI-FA7343?style=for-the-badge&logo=swift)
 
 ---
 
