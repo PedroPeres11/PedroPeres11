@@ -36,9 +36,9 @@ Sistema de registros, aprovação por cargos, logs automáticos, hierarquia atua
 ## 📊 Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PedroPeres11&show_icons=true&theme=tokyonight" alt="stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight" alt="langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroPeres11&layout=compact&theme=tokyonight" alt="langs" />
 </p>
 
 ---
@@ -46,7 +46,7 @@ Sistema de registros, aprovação por cargos, logs automáticos, hierarquia atua
 ## 🏆 Conquistas
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SEU-USUARIO&theme=tokyonight&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=PedroPeres11&theme=tokyonight&row=1&column=6" />
 </p>
 
 ---
