@@ -53,7 +53,7 @@ Sistema de registros, aprovação por cargos, logs automáticos, hierarquia atua
 
 ## 📬 Contato
 
-- Discord: `peres.dev`
+- Discord: `pedro.peres_`
 - Em breve: Portfolio Web
 
 ---
