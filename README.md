@@ -1,5 +1,5 @@
 <h1 align="center">👋 Olá! Eu sou o Peres</h1>
-<p align="center">🚓 Especialista em bots para Discord | 🔧 Full Stack Developer </p>
+<p align="center"> Especialista em Bots Discord | 🔧 Full Stack Developer </p>
 
 ---
 
